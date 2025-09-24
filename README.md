@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/theint-chue-san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theint-chue-san" height="30" width="40" /></a>
 <a href="https://fb.com/theintchue.san.752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theintchue.san.752" height="30" width="40" /></a>
 <a href="https://instagram.com/sofia_berck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofia_berck" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sofia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sofia" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/theintchuesan786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theintchuesan786" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sofia_galleria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sofia_galleria" height="30" width="40" /></a>
 </p>
 
