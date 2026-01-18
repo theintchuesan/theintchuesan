@@ -80,16 +80,16 @@
 
   
   <a href="https://instagram.com/sofia_berck" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30"  style="margin-right:12px;" />
   </a>
   
   <a href="https://facebook.com/theintchue.san.752" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="30" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="30" style="margin-right:12px;" />
   </a>
   
   
   <a href="https://www.youtube.com/@theintchuesan786" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="30" />
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="30" style="margin-right:12px;" />
   </a>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/theint-chue-san-صوفيا-430b7531b)
