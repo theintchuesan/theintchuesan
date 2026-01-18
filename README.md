@@ -76,9 +76,8 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/theint-chue-san-صوفيا-430b7531b" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" />
-  </a>
+
+
   
   <a href="https://instagram.com/sofia_berck" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" />
@@ -88,13 +87,14 @@
     <img src="https://cdn.simpleicons.org/facebook/1877F2" height="30" />
   </a>
   
-  <a href="https://twitter.com/theintchuesan28" target="_blank">
-    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" height="30" />
-  </a>
   
   <a href="https://www.youtube.com/@theintchuesan786" target="_blank">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" height="30" />
   </a>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/theint-chue-san-صوفيا-430b7531b)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/theintchuesan28)
 </p>
 
 
